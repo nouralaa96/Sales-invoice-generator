@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Muhammed Usama
+ * @author Nour Alaa
  */
 public class LineDialog extends JDialog{
    
