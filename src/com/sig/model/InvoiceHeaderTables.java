@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sig.example;
+package com.sig.model;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
